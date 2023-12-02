@@ -18,15 +18,9 @@
         />
     </head>
     <body>
-        {% if blog %}
+        {% if doc %}
         <article>
-            <header class="mb-4">
-            <h1 class="fw-bold">{{blog.judul}}</h3>
-            <img src="{{blog.url_gambar}}" width="640" height="500">
-            </header>
-            <section class="mb-5">
-            <p>{{blog.isi_artikel|linebreaksbr}}</p>
-            </section>
+            <p>{{doc}}</p>
         </article>
         <hr/>
 

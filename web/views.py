@@ -11,5 +11,5 @@ def list_docs(request):
 
 def view_doc(request, doc_id):
     # doc = Doc.objects.get(id=doc_id)
-    with open('retriever/collections/0/' + id)
-    return render(request, 'view_doc.html', {'doc': None})
+    with open('retriever/collections/0/' + doc_id, 'r') as f:
+        return render(request, 'view_doc.html', {'doc': f.read()})
