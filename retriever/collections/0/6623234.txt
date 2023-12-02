@@ -1,1 +1,0 @@
-Cara Membuat Peta Gambar. Peta gambar adalah gambar di mana area di dalam gambar adalah tautan. Membuat gambar melibatkan penggunaan. , , dan. tag. Misalkan kita ingin membuat peta gambar menggunakan gambar ini: Untuk membuat gambar ini menjadi peta gambar, kami menggunakan kode ini:

@@ -1,1 +1,0 @@
-perubahan ruang lingkup dapat mempengaruhi garis waktu proyek dan biaya proyek Perubahan ruang lingkup ini lebih sering disebut dengan istilah scope creep secara singkat scope creep adalah perubahan atau pertumbuhan lingkup proyek scope creep lebih sering terjadi selama tahap selanjutnya proyek seperti pemrograman dan pengujian daripada selama tahap sebelumnya seperti desain

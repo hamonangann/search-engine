@@ -1,1 +1,0 @@
-Tetapi menurut: http://stackoverflow.com/questions/787001/can-i-pass-constructor-parameters-to-unitys-resolve-method . Unity 2 sekarang juga harus menyertakan kemampuan untuk meneruskan parameter ke konstruktor secara dinamis selama resolusi: container.Resolve(new ParameterOverrides { { name, bar }, { address, 42 } });.

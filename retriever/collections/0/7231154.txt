@@ -1,1 +1,0 @@
-Kisaran panas busi tidak memiliki hubungan dengan tegangan aktual yang ditransfer melalui busi. Sebaliknya, kisaran panas adalah ukuran kemampuan busi untuk menghilangkan panas dari ruang bakar.

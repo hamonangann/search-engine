@@ -1,1 +1,0 @@
-Sebelum Anda menentukan blok tanda tangan email Anda, uji tampilannya di pembaca HTML, pembaca teks biasa dan pembaca RTF, serta di ponsel dan tablet. Lihat bagaimana blok tanda tangan Anda terlihat jika pesan Anda diteruskan, terutama untuk memastikan apakah baris dalam pesan terbungkus dengan benar.

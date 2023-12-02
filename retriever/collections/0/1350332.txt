@@ -1,1 +1,0 @@
-Anda menggunakan Teorema Pythagoras karena diagonal sebuah persegi panjang memotong persegi panjang menjadi dua segitiga siku-siku yang kongruen. Panjang dan lebar persegi panjang adalah panjang sisi segitiga; diagonalnya adalah hipotenusa segitiga.

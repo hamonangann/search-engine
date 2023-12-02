@@ -1,1 +1,0 @@
-Klik Oke. Buat tampilan tata letak sel NAND Anda. Cukup ketik nand2 di bawah nama sel dan tata letak di bawah tampilan. Tekan Enter, jendela berikut akan muncul: Pilih alat Virtuoso, Lihat Nama secara otomatis diatur ke tata letak.

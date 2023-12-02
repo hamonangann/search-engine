@@ -1,1 +1,0 @@
-Path: Jalankan DB20 -> Masukkan nama Tabel seperti VBAK di kolom Tabel -> klik update info perintah. Gambar 13 Jumlah entri tabel SAP DB20. Gambar 13 menunjukkan aktivitas perubahan baris tabel sejak perhitungan statistik terakhir. Ini menunjukkan berapa banyak baris baru yang dimasukkan ke tabel dan berapa banyak baris yang berubah sejak saat itu.

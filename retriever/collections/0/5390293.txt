@@ -1,1 +1,0 @@
-Membangun utilitas otomatisasi memungkinkan otomatisasi tugas yang sederhana dan berulang. Saat menggunakan alat ini, alat ini akan menghitung cara mencapai tujuan dengan menjalankan tugas dalam urutan yang benar dan spesifik dan menjalankan setiap tugas. Dua cara membangun alat berbeda adalah berorientasi tugas vs. berorientasi produk.

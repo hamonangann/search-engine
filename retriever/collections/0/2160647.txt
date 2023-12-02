@@ -1,1 +1,0 @@
-Tidak, itu tidak akan berhasil, itu tidak didukung. Anda dapat mengatur Mesin Virtual baru menggunakan Hyper-V, tetapi Anda harus menyediakan lisensi Windows XP Anda sendiri. Mode Windows XP tidak kompatibel dengan Hyper-V. Cara mengatur mesin virtual menggunakan Hyper-V.

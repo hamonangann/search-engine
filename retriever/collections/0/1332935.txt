@@ -1,1 +1,0 @@
-Waktu Standar Timur (EST) dihitung dengan mengurangkan 5 jam dari UTC. Satu jam disesuaikan dari waktu-waktu ini selama periode musim panas. Namun, perbedaan waktu antara Waktu Pasifik dan Waktu Timur tetap sama bahkan selama periode musim panas.

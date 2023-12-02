@@ -1,1 +1,0 @@
-Panduan untuk Mengembangkan Rencana Keamanan untuk Sistem Informasi Federal. rencana keamanan sistem. Kontrol keamanan tambahan khusus untuk aplikasi minor. harus didokumentasikan dalam rencana keamanan sistem sebagai lampiran atau paragraf.

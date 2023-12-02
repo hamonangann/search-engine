@@ -1,1 +1,0 @@
-Cache mentransmisikan alamat blok cache sebagai transaksi tulis pada antarmuka ke cache, dan cache menangkap alamat dari antarmuka dan membaca blok cache dari memori cache sebagai respons terhadap alamatnya..

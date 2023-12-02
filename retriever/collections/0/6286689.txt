@@ -1,1 +1,0 @@
-Keanggotaan tambahan menerima satu Rekening Tabungan. Tarif dapat berubah setelah akun dibuka dan dapat berubah setiap minggu. Dana memperoleh dividen dari hari penyetoran hingga hari penarikan, dimajemukkan dan dibayarkan setiap bulan. Dividen yang masih harus dibayar akan hangus jika akun ditutup sebelum pembagian dividen bulanan.

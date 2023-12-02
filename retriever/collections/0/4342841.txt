@@ -1,1 +1,0 @@
-Anda tidak boleh, misalnya, mengganti sekering 15 Amp dengan sekering 25 Amp, karena kabel tidak lagi terlindungi dengan baik, dan bisa menjadi terlalu panas dan menyebabkan kebakaran. Penting untuk membedakan sekering dari perangkat pengaman Ground Fault Interrupt (GFI).

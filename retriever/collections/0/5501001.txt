@@ -1,1 +1,0 @@
-Tor Browser, sebelumnya dikenal sebagai Tor Browser Bundle (TBB), adalah produk unggulan dari Proyek Tor. Ini terdiri dari browser web Mozilla Firefox ESR yang dimodifikasi, ekstensi TorButton, TorLauncher, NoScript dan HTTPS Everywhere Firefox dan proxy Tor.

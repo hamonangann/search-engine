@@ -1,1 +1,0 @@
-Luas permukaannya juga akan meningkat. Volume dan luas permukaan sel akan bertambah besar secara bersamaan meskipun tidak pada kecepatan yang sama. Volume akan meningkat lebih cepat dari luas permukaan yang membuat peningkatan ukuran tidak proporsional satu sama lain. Sifat inilah yang mengurangi rasio luas permukaan terhadap volume seiring dengan bertambahnya ukuran sel.

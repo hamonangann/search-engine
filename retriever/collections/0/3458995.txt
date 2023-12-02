@@ -1,1 +1,0 @@
-Untuk dokumentasi terbaru tentang Visual Studio 2017, lihat Dokumentasi Visual Studio 2017. Pustaka tautan dinamis (DLL) adalah file yang dapat dieksekusi yang bertindak sebagai pustaka fungsi dan sumber daya bersama. Penautan dinamis memungkinkan executable untuk memanggil fungsi atau menggunakan sumber daya yang disimpan dalam file terpisah.

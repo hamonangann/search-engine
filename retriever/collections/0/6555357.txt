@@ -1,1 +1,0 @@
-Rumus molekul mencantumkan unsur-unsur dalam molekul dan jumlah atom masing-masing. 1 A Setiap molekul belerang monoklorida memiliki dua atom belerang dan dua atom klor. 2 A Menghitung atom dalam etilen glikol, kita mendapatkan enam atom hidrogen, dua atom karbon, dan dua atom oksigen per molekul.

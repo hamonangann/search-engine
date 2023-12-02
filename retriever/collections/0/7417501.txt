@@ -1,1 +1,0 @@
-Apa itu Saklar KVM? KVM adalah singkatan dari Keyboard, Video and Mouse, dan KVM Switch memungkinkan Anda untuk mengontrol dua atau lebih komputer dari satu keyboard, monitor, dan mouse. KVM Switch terkadang juga dikenal sebagai Switch PC, Switch Server, dan Switch CPU. ATAS.

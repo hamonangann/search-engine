@@ -1,1 +1,0 @@
-Saya akan membahas faktor-faktor yang berkontribusi terhadap kebutuhan akan arsitektur Java yang lebih modular, menjelaskan secara singkat dan membandingkan solusi yang telah diusulkan, dan memperkenalkan tiga pembaruan modularitas yang direncanakan untuk Java 9, termasuk potensi dampaknya terhadap pengembangan Java.

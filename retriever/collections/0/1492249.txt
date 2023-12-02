@@ -1,1 +1,0 @@
-Untuk menggunakan UI. 1 Buka IIS Manager dan navigasikan ke level yang ingin Anda kelola. 2 Dalam Tampilan Fitur, klik dua kali Caching Output. 3 Pada halaman Output Caching, di panel Tindakan, klik Edit pengaturan fitur. Dalam kotak dialog Edit Pengaturan Cache Output, masukkan ukuran cache maksimum, dalam megabita, dalam kotak Batas ukuran cache (dalam MB) 1. Klik Oke.

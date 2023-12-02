@@ -1,1 +1,0 @@
-Dalam mesin diesel, udara dikompresi secara adiabatik dengan rasio kompresi biasanya antara 15 dan 20. Kompresi ini menaikkan suhu ke suhu penyalaan campuran bahan bakar yang dibentuk dengan menginjeksikan bahan bakar setelah udara dikompresi.

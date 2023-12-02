@@ -1,1 +1,0 @@
-Tiga jenis utama lantai kayu solid adalah: 1 Lantai strip - Jenis lantai ini dilambangkan dengan ketebalan dan lebar papan kayu. Strip lantai memiliki lebar yang ditetapkan, tetapi ketebalannya dapat bervariasi. 2 Lantai papan - Lantai papan hanya memiliki dua ketebalan, tetapi tidak seperti lantai strip, lebarnya dapat bervariasi.

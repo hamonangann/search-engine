@@ -1,1 +1,0 @@
-Teorema 10.10: Ukuran Teorema Sudut Tertulis. Besar sudut yang digariskan adalah setengah dari besar busur yang dipotongnya. Teorema 10.11: Sudut Tertulis dari Teorema Lingkaran. Jika dua sudut dalam lingkaran memotong busur yang sama, maka sudut-sudut itu kongruen.

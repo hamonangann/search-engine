@@ -1,1 +1,0 @@
-File yang berisi ekstensi file .sitx biasanya dikaitkan dengan arsip file Smith Micro StuffIt dan utilitas perangkat lunak kompresi. Versi 7.0 dan yang lebih baru dari program perangkat lunak StuffIt membuat dan menyimpan arsip file terkompresi dengan ekstensi file .sitx.

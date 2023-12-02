@@ -1,1 +1,0 @@
-Dalam matematika dan statistik, proses stasioner (atau proses stasioner ketat atau proses stasioner kuat) adalah proses stokastik yang distribusi probabilitas gabungannya tidak berubah ketika digeser dalam waktu.

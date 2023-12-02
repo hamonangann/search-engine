@@ -1,1 +1,0 @@
-Waktu untuk siklus kerja dalam satu jam dipecah dalam grafik di bawah ini. Jika Anda ingin memecahnya menjadi interval 10 menit - jika kompresor udara memiliki siklus kerja 50%, kompresor udara akan berjalan selama 10 menit, maka itu harus berjalan selama maksimum gabungan 5 menit ON dan 5 menit OFF .

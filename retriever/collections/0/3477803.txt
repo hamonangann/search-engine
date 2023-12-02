@@ -1,1 +1,0 @@
-Respon Terbaik. Anda telah memilih jawaban terbaik. Jika fungsinya \(\tan x\) (artinya \(a,b=1\) dan \(c,d=0\) dalam fungsi tangen umum saya), maka ya, periodenya adalah \(\pi\ ). Mungkin jawaban yang diterima adalah pi atau 3.14 atau sesuatu sejauh itu.

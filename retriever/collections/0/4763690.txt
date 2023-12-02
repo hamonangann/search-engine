@@ -1,1 +1,0 @@
-Bagaimana cara membuat fungsi yang ditentukan pengguna di Microsoft Excel. Microsoft Excel memungkinkan pengguna untuk membuat fungsi yang ditentukan pengguna mereka sendiri. Menggunakan kekuatan Visual Basic for Applications (VBA), Anda dapat mengkodekan rumus yang rumit hanya sekali dan menggunakannya lagi dan lagi di lembar bentang dan buku kerja Anda.

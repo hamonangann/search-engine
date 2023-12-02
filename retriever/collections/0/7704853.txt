@@ -1,1 +1,0 @@
-Teka-teki ganda adalah teka-teki di mana siswa pertama-tama harus menguraikan kata-kata petunjuk, kemudian menggunakan huruf dari kata-kata petunjuk itu untuk memecahkan kode kata/frasa terakhir. Huruf-huruf untuk frasa terakhir dapat diberi nomor, membuat Puzzle Ganda sedikit lebih mudah untuk dipecahkan. Masukkan judul yang bermakna.

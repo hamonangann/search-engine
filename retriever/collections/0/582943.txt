@@ -1,1 +1,0 @@
-Dokumen menjelaskan pengaturan yang harus dilakukan di IIS untuk batas waktu sesi. Ini adalah. setelan yang direkomendasikan. Tidak disarankan untuk memperpanjang sesi tanpa batas karena hal ini dapat terjadi. menyebabkan perilaku aplikasi yang tidak stabil. Mengonfigurasi Batas Waktu Sesi di IIS. 2. Daftar Isi.

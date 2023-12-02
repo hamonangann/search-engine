@@ -1,1 +1,0 @@
-Contoh penggunaan BAM dalam manajemen risiko adalah pemantauan transaksi kartu kredit untuk mencegah penipuan.

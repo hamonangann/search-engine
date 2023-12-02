@@ -1,1 +1,0 @@
-Anda akan melihat Saldo Akun dan Saldo yang Tersedia sehingga Anda dapat melihat dana yang tersedia untuk penarikan segera serta saldo di akun Anda setelah semua transaksi yang tertunda selesai. 1 Saldo Akun: Saldo ini mencerminkan dana saat ini di akun Anda, termasuk setoran dan penarikan yang dilakukan hingga saat ini.

@@ -1,1 +1,0 @@
-Menu tarik-turun muncul, dengan semua opsi batas yang dapat Anda terapkan ke pemilihan sel. Gunakan tombol Perbatasan pada tab Beranda untuk memilih batas sel yang dipilih. Klik jenis garis yang ingin Anda terapkan ke sel yang dipilih. Saat memilih opsi pada menu tarik-turun Perbatasan, ingatlah hal-hal ini:

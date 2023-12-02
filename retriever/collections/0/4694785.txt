@@ -1,1 +1,0 @@
-Jika Anda perlu mengekstrak tahun dari tanggal, Anda dapat menggunakan fungsi YEAR. Dalam bentuk umum rumus di atas, tanggal harus dalam bentuk yang dikenali Excel sebagai tanggal yang valid. Begini cara kerja rumus: Fungsi YEAR hanya mengambil satu argumen, tanggal dari mana Anda ingin mengekstrak tahun. Dalam contoh, rumusnya adalah:

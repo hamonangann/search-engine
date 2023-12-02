@@ -1,1 +1,0 @@
-Google Cloud Platform memungkinkan Anda membuat dan menghosting aplikasi dan situs web, menyimpan data, dan menganalisis data di infrastruktur skalabel Google. Beranda Google Cloud Platform

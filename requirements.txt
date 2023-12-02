@@ -3,3 +3,5 @@ tqdm
 git+https://github.com/ariaghora/mpstemmer.git
 PySastrawi
 python-Levenshtein
+django-environ
+google-cloud-secret-manager

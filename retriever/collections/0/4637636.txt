@@ -1,1 +1,0 @@
-Bagian ini dimulai dengan diskusi tentang bagaimana aliran saluran terbuka dapat diklasifikasikan. Bilangan Froude, parameter tak berdimensi penting dalam aliran saluran terbuka, dan konsep energi spesifik akan diperkenalkan. Persamaan Chezy dan Manning kemudian disajikan untuk aliran seragam.

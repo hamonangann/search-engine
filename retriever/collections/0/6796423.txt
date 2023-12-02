@@ -1,1 +1,0 @@
-Adobe AIR adalah lingkungan runtime lintas platform. Dalam bahasa Inggris sederhana, ini adalah cara aplikasi dibangun dan dijalankan di sistem operasi apa pun. Bahasa pemrograman yang digunakan untuk membangun aplikasi AIR adalah Flash, Flex, HTML dan AJAX. Ini semua pada dasarnya adalah bahasa pemrograman berbasis web.

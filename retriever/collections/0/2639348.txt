@@ -1,1 +1,0 @@
-1 Buat symlink ke skrip pd-zabbix di direktori AlertScriptsPath Zabbix. AlertScriptsPath biasanya /etc/zabbix/alert.d atau /usr/local/share/zabbix/alertscripts tetapi dapat diubah. Periksa file zabbix_server.conf Anda untuk path. Sekarang, mari tambahkan PagerDuty sebagai jenis media di Zabbix.

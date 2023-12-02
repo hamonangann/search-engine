@@ -1,1 +1,0 @@
-Bagaimana Excel Mendefinisikan Fungsi COUNTIF: Microsoft Excel mendefinisikan COUNTIF sebagai rumus yang, Menghitung jumlah sel dalam rentang yang memenuhi kondisi yang diberikan . Definisi ini dengan jelas menjelaskan bahwa: Fungsi COUNTIF adalah jenis rumus COUNT yang lebih baik dan canggih yang memberi Anda kendali atas, sel mana yang ingin Anda hitung.

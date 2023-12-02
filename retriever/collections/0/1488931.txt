@@ -1,1 +1,0 @@
-Contoh: Tentukan keliling segitiga ABC di bawah ini. Dalam diagram sudut B dan C ditandai sebagai kongruen. Jadi segitiga ABC sama kaki dengan B dan C sebagai sudut alas. AB = AC = 8 cm (Dengan kebalikan dari teorema segitiga sama kaki). Keliling segitiga ABC = AB + BC + CA = 8 + 4 + 8 = 20 cm.

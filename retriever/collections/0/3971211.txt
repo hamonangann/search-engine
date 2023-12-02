@@ -1,1 +1,0 @@
-File HTML. Setiap halaman web sebenarnya adalah file HTML. Setiap file HTML hanyalah file teks biasa, tetapi dengan ekstensi file .html, bukan .txt, dan terdiri dari banyak tag HTML serta konten untuk halaman web. Sebuah situs web akan sering berisi banyak file html yang terhubung satu sama lain. Anda dapat mengedit file HTML dengan editor favorit Anda.

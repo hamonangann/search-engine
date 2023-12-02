@@ -1,1 +1,0 @@
-Java adalah bahasa yang ditafsirkan, jadi tidak akan pernah secepat bahasa yang dikompilasi seperti C atau C++. Namun, Java memungkinkan kinerja tinggi dengan penggunaan kompiler just-in-time. Fitur Baru JAVA 8. Disebutkan di bawah ini adalah beberapa peningkatan inti yang dilakukan sebagai bagian dari rilis Java 8.

@@ -1,1 +1,0 @@
-Tampilkan/sembunyikan lokasi mereka di peta. Sungai: Sungai Serigala (A). Menampilkan/menyembunyikan lokasinya di peta. Taman di Spring Valley meliputi: Goodland Acres Park (1), Bancroft City Park (2), Lamar County Park (3), Bancroft County Park (4), Del Parque County Park (5).

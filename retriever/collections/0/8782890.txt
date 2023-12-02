@@ -1,1 +1,0 @@
-1 Hubungan linier yang paling lemah ditunjukkan oleh koefisien korelasi sebesar 0. 2 Korelasi positif artinya jika satu variabel semakin besar, variabel lainnya cenderung semakin besar. Korelasi negatif berarti jika salah satu variabel semakin besar, variabel lainnya cenderung semakin kecil.

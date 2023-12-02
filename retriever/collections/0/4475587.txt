@@ -1,1 +1,0 @@
-Optimalisasi ini dikenal sebagai eliminasi COMDAT transitif. Secara default, /OPT:REF diaktifkan di build non-debug. Untuk mengganti default ini dan menyimpan COMDAT yang tidak direferensikan dalam program, tentukan /OPT:NOREF. Anda dapat menggunakan opsi /INCLUDE untuk mengganti penghapusan simbol tertentu.

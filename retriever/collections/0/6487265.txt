@@ -1,1 +1,0 @@
-4. Ketik list volume untuk membuat daftar semua partisi pada disk yang dipilih dengan semua label partisi, sehingga Anda dapat menentukan partisi pemulihan mana yang akan dihapus. Jika Anda ingin melihat tipe partisi, gunakan perintah daftar partisi.

@@ -1,1 +1,0 @@
-Apa itu Nomor Perutean? Nomor Perutean/RTN/Perutean Nomor Transit: Nomor Perutean digunakan untuk memfasilitasi perutean dana elektronik (transfer ACH) dari satu rekening bank ke rekening bank lainnya di AS. Nomor Perutean adalah kode numerik sembilan digit yang tercetak di bagian bawah cek. Ini juga disebut sebagai RTN, Nomor Perutean Transit atau Nomor Perutean Bank.

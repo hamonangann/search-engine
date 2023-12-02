@@ -1,1 +1,0 @@
-Dalam beberapa kasus, seperti contoh toko kelontong, lingkup pengaruhnya relatif kecil dan tidak mungkin menimbulkan masalah. Namun, dalam contoh-contoh lain, kompleksitas dan signifikansi lingkup pengaruh asing bisa sangat mendalam.

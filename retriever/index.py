@@ -69,7 +69,7 @@ class InvertedIndex:
         https://docs.python.org/3/reference/datamodel.html#object.__enter__
         """
         # Membuka index file
-        self.index_file = open(self.index_file_path, 'rb+')
+        self.index_file = open(self.index_file_path, 'rb')
 
         # Kita muat postings dict dan terms iterator dari file metadata
         with open(self.metadata_file_path, 'rb') as f:

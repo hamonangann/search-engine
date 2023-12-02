@@ -1,1 +1,0 @@
-Dalam kasus monolit yang lebih kecil dimungkinkan untuk menimbangnya. Namun, dalam banyak kasus monolit terlalu besar atau mungkin merupakan bagian dari struktur kuno sehingga metode ini tidak dapat digunakan. Berat batu dapat dihitung dengan mengalikan volume dan kepadatannya.

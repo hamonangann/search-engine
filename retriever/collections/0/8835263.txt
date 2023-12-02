@@ -1,1 +1,0 @@
-MEMS akan sering menggunakan analog mikroskopis dari bagian dan alat mekanis umum; mereka dapat memiliki saluran, lubang, kantilever, membran, rongga, dan struktur lainnya. Namun, bagian MEMS tidak dikerjakan dengan mesin. Sebaliknya, mereka dibuat menggunakan teknologi fabrikasi mikro yang mirip dengan pemrosesan batch untuk sirkuit terpadu.

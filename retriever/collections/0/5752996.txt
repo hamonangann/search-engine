@@ -1,1 +1,0 @@
-Dokumen ini menjelaskan cara mengidentifikasi versi firmware iOS yang digunakan perangkat. 1 Buka layar beranda perangkat iOS Anda dan klik Pengaturan. 2 Klik Umum. 3 Klik Tentang. Perhatikan nomor setelah Versi; ini adalah versi iOS yang diinstal pada perangkat. Misalnya, perangkat dalam gambar menjalankan firmware iOS 4.2.1.

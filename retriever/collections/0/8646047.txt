@@ -1,1 +1,0 @@
-Laporan Detail Biaya Pekerjaan. Laporan ini mencantumkan setiap transaksi individual untuk setiap pekerjaan yang telah Anda atur di QuickBooks. Ini berguna jika Anda memerlukan laporan yang menguraikan semua pembelian pemasok material, semua tagihan subkontraktor, dan semua biaya tenaga kerja (termasuk beban tenaga kerja) untuk setiap pekerjaan.

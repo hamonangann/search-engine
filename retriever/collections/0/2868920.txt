@@ -1,1 +1,0 @@
-Jadi pada contoh di atas, untuk mengubah 123000000000000 ke notasi ilmiah Anda cukup memindahkan titik desimal ke kiri hingga angka di sebelah kiri titik desimal (koefisien) adalah angka dari 1 hingga 9, yang dalam hal ini adalah 14 tempat . 123000000000000 dikonversi ke notasi ilmiah 1,23 x 1014.

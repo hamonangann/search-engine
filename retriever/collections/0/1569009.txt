@@ -1,1 +1,0 @@
-Saya pikir maksud Anda satu salinan. Atau mungkin salinan ganda. Saya tidak melihat bagaimana itu bisa menjadi salinan tunggal karena perlu menyalinnya dari satu ruang alamat proses dan ke yang lain. Soket UNIX Anda dapat melakukan penyalinan nol dengan melewatkan pegangan file melalui soket.

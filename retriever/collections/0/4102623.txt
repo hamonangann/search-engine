@@ -1,1 +1,0 @@
-Virtualisasi server untuk server Linux skala IBM dengan KVM. 1 VM (KVM) berbasis Kernel Linux menyediakan pilihan virtualisasi terbuka untuk sistem Linux skala IBM. Teknologi open source Linux dari virtualisasi KVM dirancang untuk melengkapi kinerja, skalabilitas, dan kualitas keamanan Linux.

@@ -1,1 +1,0 @@
-Hai, Taskhost.exe adalah Host Tugas yang merupakan Proses Host generik untuk Layanan Windows 7 32-bit. Path lengkap ke file ini harus ditampilkan di TUT sebagai C:\Windows\System32\Taskhost.exe.

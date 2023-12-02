@@ -1,1 +1,0 @@
-Irina Medvinskaya menyajikan cara sederhana untuk mengubah angka menjadi string yang diformat di VB.NET. Dia juga menjelaskan perbedaan antara dua jenis string format numerik: standar dan kustom. Oleh Irina Medvinskaya | 9 Agustus 2006, 20:49 PST.

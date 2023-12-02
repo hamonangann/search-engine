@@ -1,1 +1,0 @@
-Ada dua biaya dengan alat pemadam kebakaran, biaya kendaraan dan biaya peralatan yang dibawa truk. Jadi mobil pemadam kebakaran tergantung pada kelasnya bisa di bawah $1000,000, sedangkan truk tangga bisa menghabiskan biaya hingga $300,000 dan itu dengan kedua truk tidak dilengkapi.

@@ -1,1 +1,0 @@
-Ada 20 kemungkinan gerakan pembukaan dalam catur. Ada delapan pion dan setiap pion memiliki dua kemungkinan gerakan. Ada dua ksatria dan setiap ksatria memiliki dua kemungkinan gerakan. Ada 20 kemungkinan gerakan pembukaan dalam catur. Ada delapan pion dan setiap pion memiliki dua kemungkinan gerakan. Ada dua ksatria dan setiap ksatria memiliki dua kemungkinan gerakan.

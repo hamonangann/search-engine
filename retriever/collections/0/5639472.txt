@@ -1,1 +1,0 @@
-Pengenalan fungsi DATE_FORMAT MySQL. Untuk memformat nilai tanggal ke format tertentu, Anda menggunakan fungsi DATE_FORMAT. format : adalah string format yang terdiri dari penentu yang telah ditentukan. Setiap penentu didahului oleh karakter persentase ( % ). Lihat tabel di bawah untuk daftar penentu yang telah ditentukan sebelumnya.

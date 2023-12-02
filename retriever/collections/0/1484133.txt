@@ -1,1 +1,0 @@
-Sebelum menyebutkan alat, mari kita mengidentifikasi proses yang dapat digunakan untuk mengotomatisasi proses pengujian: 1 Mengidentifikasi area dalam perangkat lunak untuk otomatisasi. 2 Pemilihan alat yang sesuai untuk otomatisasi pengujian. 3 Menulis skrip tes. Pengembangan setelan uji 1. Eksekusi skrip. Membuat laporan hasil.

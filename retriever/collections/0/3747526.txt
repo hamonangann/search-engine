@@ -1,1 +1,0 @@
-Pilih penunjukan suhu dan penunjukan jarak (ketinggian) untuk perhitungan. Masukkan suhu udara sekitar dan titik embun. Jika Anda tidak yakin dengan titik embun, Anda dapat menentukannya dengan Kalkulator Titik Embun dan Kelembaban Relatif kami.

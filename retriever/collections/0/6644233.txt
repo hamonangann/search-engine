@@ -1,1 +1,0 @@
-Di kolom manajemen proyek sebelumnya, kami membahas beberapa prinsip pengembangan tangkas dan melihat metodologi tangkas Scrum secara rinci. Sekarang kita akan menjelajahi masing-masing varian metode tangkas ini dan mendiskusikan kriteria untuk memilih satu pendekatan atau lainnya berdasarkan proyek yang ada.

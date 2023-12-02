@@ -1,1 +1,0 @@
-Anda dapat meningkatkan batas waktu sesi di asp.net dengan salah satu cara berikut. Menggunakan IIS Versi 7 1 : Buka IIS. 2 Pilih situs web Anda dari daftar situs. 3 Klik pada status Sesi di sebelah kanan. 4 Sekarang masukkan batas waktu sesi Anda di bawah pengaturan cookie.

@@ -1,1 +1,0 @@
-Dalam geometri Euclidean dua sinar dengan titik akhir yang sama membentuk sudut. Definisi sinar tergantung pada gagasan antara titik-titik pada suatu garis. Oleh karena itu sinar hanya ada untuk geometri yang gagasan ini ada, biasanya geometri Euclidean atau geometri affine di atas bidang yang teratur.

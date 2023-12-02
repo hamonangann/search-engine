@@ -1,1 +1,0 @@
-Sistem Pembayaran Prospektif Medicare. PPS Medicare didasarkan pada jumlah tetap yang telah ditentukan sebelumnya untuk layanan tertentu. Jumlah ini didasarkan pada sistem klasifikasi layanan tersebut (misalnya, kelompok terkait diagnosis untuk layanan rawat inap di rumah sakit).

@@ -1,1 +1,0 @@
-Menghapus partisi cache berarti menghapus file yang paling umum dari cache. File-file ini tidak akan dihapus dari ponsel Anda secara umum sehingga AMAN untuk menghapus partisi cache, Anda dapat melanjutkan dan melakukannya tanpa khawatir. Ini tidak sedrastis wipe data/factory reset.

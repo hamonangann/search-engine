@@ -1,1 +1,0 @@
-Kit ini adalah uji amplikon multipleks yang cepat dan mudah yang dioptimalkan untuk Sistem MiSeq. Ini memungkinkan pengurutan 161536 amplikon khusus (wilayah kecil yang diminati) hingga 96 sampel. Pengujian juga mencakup varian pada instrumen yang meminta variasi germline dan somatik dengan Sistem MiSeq.

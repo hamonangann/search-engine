@@ -1,1 +1,0 @@
-Jaring Petri biasa adalah graf berarah bipartit yang terdiri dari tempat-tempat, digambarkan sebagai lingkaran, dan transisi, digambarkan sebagai batang. Sebuah definisi formal berikut [3]:Definisi 2.1 Sebuah Petri Net biasa (PN) adalah 5-tuplePN = (P;T;I ;I + ;M 0) di mana:1. P = fp 1 ;p 2 ;:::;p n adalah kumpulan tempat yang kecil dan tidak kosong,2.

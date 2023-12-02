@@ -1,1 +1,0 @@
-Di bawah ini, kami akan mendemonstrasikan metode untuk menghitung gaya dorong teoritis yang dapat dihasilkan oleh baling-baling atau rotor. Tentu saja dalam helikopter, piringan rotor diorientasikan sedemikian rupa sehingga kita menyebutnya gaya angkat daripada gaya dorong, gaya dorong akan digunakan dalam kasus pesawat terbang.

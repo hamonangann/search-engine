@@ -1,1 +1,0 @@
-Protokol Tumpukan Ganda. Istilah dual-stack biasanya mengacu pada duplikasi lengkap dari semua level dalam tumpukan protokol dari aplikasi ke lapisan jaringan. Salah satu contoh duplikasi lengkap adalah sistem yang menjalankan protokol OSI dan TCP/IP. Oracle Solaris adalah dual-stack, artinya Oracle Solaris mengimplementasikan protokol IPv4 dan IPv6.

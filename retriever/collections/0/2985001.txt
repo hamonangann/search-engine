@@ -1,1 +1,0 @@
-TCP/IP tidak benar-benar memetakan dengan bersih ke model OSI (yang dirancang dari atas ke bawah oleh sebuah komite). Jika Anda ingin peta terdekat ke lapisan OSI, jawabannya mungkin 3.5: ICMP (yang digunakan ping) diimplementasikan langsung di atas paket IP dan tidak menggunakan lapisan transport (lapisan OSI 4) seperti TCP atau UDP .
