@@ -1,0 +1,1 @@
+Kabel Komposit. Kabel komposit digunakan untuk koneksi definisi standar. Ada tiga kabel berwarna terpisah dalam kabel komposit: 1 Merah dan putih untuk audio kiri dan audio kanan. 2 Kuning untuk video.

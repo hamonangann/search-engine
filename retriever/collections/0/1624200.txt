@@ -1,0 +1,1 @@
+Otentikasi multi-faktor, selalu. Otentikasi multi-faktor, atau MFA, adalah standar dengan aplikasi True Key. Anda akan selalu diverifikasi oleh setidaknya dua faktor sebelum masuk. Sesuaikan profil Anda dengan menambahkan lebih banyak faktor - semakin banyak Anda menambahkan, semakin aman profil Anda.

@@ -1,0 +1,1 @@
+Catatan Platform Perlindungan Akses Jaringan tidak tersedia mulai dari Windows 10. Perlindungan Akses Jaringan (NAP) dirancang untuk membantu administrator menjaga kesehatan komputer di jaringan, yang pada gilirannya membantu menjaga integritas jaringan secara keseluruhan. Itu tidak dirancang untuk mengamankan jaringan dari pengguna jahat.

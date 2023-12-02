@@ -1,0 +1,1 @@
+1 Bandwidth adalah ukuran jumlah data yang dapat ditransmisikan melalui koneksi selama jumlah waktu tertentu. 2 Bandwidth, juga disebut kecepatan transfer data, biasanya dinyatakan dalam bit per detik (bps).

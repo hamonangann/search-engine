@@ -1,0 +1,1 @@
+Deposit yang Ditolak. Jika rekening bank Anda telah ditutup sebelum Anda membatalkan transaksi setoran langsung atau Anda membatalkan setoran langsung dengan majikan Anda setelah atasan Anda memproses transaksi penggajian, dana akan dikirim ke rekening bank yang ditutup.

@@ -1,0 +1,1 @@
+Konsol Manajemen Perangkat Keras IBM. Hardware Management Console (HMC) adalah alat Fisik / Virtual yang digunakan untuk mengelola Sistem IBM termasuk IBM System i, IBM System p, IBM System z, dan IBM Power Systems. HMC mendukung antarmuka pengguna baris perintah (ssh) serta web (https). Menggunakan HMC, administrator sistem dapat mengelola banyak sistem dan partisi.

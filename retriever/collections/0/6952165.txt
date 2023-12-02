@@ -1,0 +1,1 @@
+Apa itu DLM? DLM, atau Dynamic Line Management , adalah sistem BT Wholesale yang digunakan untuk mengontrol kecepatan dan stabilitas koneksi Broadband (ADSL dan ADSL2+). Broadband (ADSL dan ADSL2+) dari Zen akan memprioritaskan kecepatan daripada stabilitas dalam ambang batas yang ditentukan oleh sistem DLM.

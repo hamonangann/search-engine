@@ -1,0 +1,1 @@
+Kontrol ActiveX dapat digunakan pada formulir lembar kerja, dengan atau tanpa penggunaan kode VBA, dan pada VBA UserForms. Secara umum, gunakan kontrol ActiveX saat Anda membutuhkan persyaratan desain yang lebih fleksibel daripada yang disediakan oleh kontrol Formulir.

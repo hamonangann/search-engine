@@ -1,0 +1,1 @@
+Selanjutnya, EUR. dan swap USD ditambahkan ke portofolio untuk mengubah sensitivitas suku bunga relatif terhadap. patokan. Syarat dan konvensi swap kemudian dijelaskan. Ini diikuti oleh analisis swap, pengembalian total swap, dan atribusi swap dalam konteks pengembalian portofolio dan benchmark.

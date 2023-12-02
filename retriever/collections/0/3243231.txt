@@ -1,0 +1,1 @@
+Dan karena kita sudah memiliki definisi limit yang ketat, definisi epsilon delta, memberi kita definisi limit yang ketat. Ini adalah definisi untuk batas. Jadi kita bisa membuktikan kapan suatu limit ada, dan berapa nilai limit itu. Mari kita gunakan itu untuk membuat definisi kontinuitas yang ketat.

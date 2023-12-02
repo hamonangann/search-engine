@@ -1,0 +1,1 @@
+ E = (22.13)q o Persamaan 22.13 adalah hukum Gauss untuk listrik, dan mengatakan bahwa fluks listrik E yang melewati permukaan yang mengelilingi muatan titik q adalah ukuran jumlah muatan q yang terkandung dalam permukaan Gaussian.

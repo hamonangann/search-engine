@@ -1,0 +1,1 @@
+Institute of Electrical and Electronic Engineers (IEEE) memberikan definisi interoperabilitas yang diterima secara umum, setidaknya dari perspektif teknis. Ini mendefinisikan istilah sebagai kemampuan dua atau lebih sistem atau komponen untuk bertukar informasi dan menggunakan informasi yang telah dipertukarkan.

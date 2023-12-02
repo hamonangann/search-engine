@@ -1,0 +1,1 @@
+Pengenalan Appium. Appium adalah alat sumber terbuka untuk mengotomatisasi aplikasi asli, web seluler, dan hibrida pada platform iOS dan Android. Aplikasi asli adalah yang ditulis menggunakan iOS atau Android SDK.

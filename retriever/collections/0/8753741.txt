@@ -1,0 +1,1 @@
+Pada halaman Tambah Pencarian di komponen Definisi Hutang, masukkan ID unit bisnis untuk unit bisnis Hutang PeopleSoft yang ingin Anda buat, dan klik Tambah. Catatan: Gunakan ID unit bisnis yang panjangnya lima karakter untuk mengoptimalkan kinerja sistem.

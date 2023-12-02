@@ -1,0 +1,1 @@
+Verifikasi dan Validasi. Sebelum masuk ke berbagai bentuk dan strategi pengujian kita harus memahami proses verifikasi dan validasi kode perangkat lunak. Verifikasi dan validasi adalah nama umum yang diberikan untuk proses pemeriksaan yang memastikan bahwa perangkat lunak sesuai dengan spesifikasinya dan memenuhi kebutuhan pelanggan.

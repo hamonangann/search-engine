@@ -1,0 +1,1 @@
+menyatukan semua bagian proyek ke dalam lingkungan pengujian khusus untuk menghilangkan kesalahan dan bug, dan memverifikasi bahwa sistem memenuhi semua persyaratan bisnis yang ditentukan dalam pengujian unit fase analisis

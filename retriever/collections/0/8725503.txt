@@ -1,0 +1,1 @@
+Beberapa sistem skema ada untuk membantu dalam definisi bahasa berbasis XML, sementara banyak antarmuka pemrograman aplikasi (API) telah dikembangkan untuk membantu pemrosesan data XML. Ada banyak sistem skema untuk membantu dalam definisi bahasa berbasis XML, sementara banyak antarmuka pemrograman aplikasi (API) telah dikembangkan untuk membantu pemrosesan data XML.

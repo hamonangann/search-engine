@@ -1,0 +1,1 @@
+Parsing adalah proses menganalisis string simbol, baik dalam bahasa alami atau dalam bahasa pemrograman komputer, sesuai dengan aturan tata bahasa formal. Dalam beberapa terjemahan mesin dan sistem pemrosesan bahasa alami, teks tertulis dalam bahasa manusia diuraikan oleh program komputer.

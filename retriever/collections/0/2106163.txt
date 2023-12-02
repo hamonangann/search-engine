@@ -1,0 +1,1 @@
+Karena kami menggunakan rawat inap sebagai indikator perawatan rawat jalan sebelum rawat inap, kami memilih untuk menetapkan Medi-Cal hanya rawat inap di mana seorang individu memiliki cakupan Medi-Cal di bulan sebelum rawat inap.

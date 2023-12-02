@@ -1,0 +1,1 @@
+PowerShell: Menulis Fungsi di PowerShell-Part 2. Revisi 1 diposting ke Artikel TechNet oleh Chen V pada 15/9/2014 3:26:45. Ini adalah lanjutan dari Menulis Fungsi di PowerShell-Part 1. Pada bagian ini mari kita lihat bagaimana menulis fungsi lanjutan menggunakan ISE.

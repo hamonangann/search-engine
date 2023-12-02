@@ -1,0 +1,1 @@
+Pemberian lisensi per VM didasarkan pada rata-rata bergulir dari jumlah VM tertinggi selama 12 bulan terakhir. Anda ingin mengelola pelaporan biaya secara efektif dan memutuskan untuk membeli VMware vCenter Chargeback.

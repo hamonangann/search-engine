@@ -1,0 +1,1 @@
+Amplitudo dan periode dari grafik y =a sinbx dan y =a cosbx, di mana a dan b adalah bilangan real bukan nol, adalah sebagai berikut: amplitudo=|a| dan periode =. Contoh Grafik y = 2 sin 4x memiliki amplitudo 2 dan periode 2.

@@ -1,0 +1,1 @@
+Relay Wiring Harness menggunakan kabel listrik yang dilindungi sekering 30amp yang terhubung langsung ke terminal positif Anda pada baterai. Relay Otomotif digunakan untuk menarik sinyal dari sumber (konektor Headlight) yang memicu daya untuk diambil dari baterai. Ada dua set kabel yang dimaksudkan untuk memberikan daya ke ballast HID.

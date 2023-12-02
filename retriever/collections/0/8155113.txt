@@ -1,0 +1,1 @@
+Suhu maksimum rata-rata di Pantai Pismo pada bulan Maret adalah 19. Suhu maksimum rata-rata adalah 18 pada bulan sebelumnya dan 21 pada bulan berikutnya. Suhu rata-rata di Pantai Pismo pada bulan Maret adalah 13. Kisaran suhu rata-rata adalah 12 pada bulan sebelumnya dan 14 pada bulan berikutnya. Suhu minimum rata-rata di Pantai Pismo pada bulan Maret adalah 7.

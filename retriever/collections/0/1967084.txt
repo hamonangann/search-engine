@@ -1,0 +1,1 @@
+Mode tampilan. Setelah aplikasi berada dalam mode eksklusif layar penuh, aplikasi mungkin dapat memanfaatkan pengaturan mode tampilan secara aktif. Mode tampilan (java.awt.DisplayMode) terdiri dari ukuran (lebar dan tinggi monitor, dalam piksel), kedalaman bit (jumlah bit per piksel), dan kecepatan refresh (seberapa sering monitor memperbarui dirinya sendiri).

@@ -1,0 +1,1 @@
+Definisi: port MDI. pelabuhan MDI. (Medium Dependent Interface port) Disebut juga port uplink, yaitu port pada hub atau switch jaringan yang digunakan untuk menghubungkan ke hub atau switch lain tanpa memerlukan kabel crossover.

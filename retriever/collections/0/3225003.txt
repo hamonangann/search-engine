@@ -1,0 +1,1 @@
+Sebagai contoh, mari kita lempar paragraf ke dalam div, lalu coba pusatkan paragraf itu di spasi. Seperti yang Anda lihat, saya mengatur margin otomatis pada paragraf dan div induknya. Ini memusatkan semuanya dengan baik secara horizontal, tetapi tidak berpengaruh pada posisi vertikal.

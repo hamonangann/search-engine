@@ -1,0 +1,1 @@
+Mengikuti rilis RHEL 6.5, CentOS 6.5 telah tiba pada 1 Desember dan saatnya untuk bermain dengannya. Bagi mereka yang ingin memperbarui sistem 6.4 mereka yang ada ke 6.5 cukup gunakan perintah pembaruan yum dan semua keajaiban akan dilakukan. CentOS 6.5 telah menerima beberapa pembaruan paket serta fitur baru.

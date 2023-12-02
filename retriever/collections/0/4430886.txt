@@ -1,0 +1,1 @@
+1 Di Creative, pemain dapat menggunakan telur spawn untuk menelurkan sebagian besar monster. 2 Saat gerombolan muncul dengan cara ini, semua persyaratan pemijahan normal, seperti level cahaya dan tipe blok, diabaikan. 3 Setiap entitas dapat dimunculkan menggunakan perintah /summon.

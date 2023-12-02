@@ -1,0 +1,1 @@
+Saya memiliki proyek master CefSharp yang dibangun di atas Chromium- 31.0.1650.57. Semua berfungsi dengan baik dan sempurna, tetapi ketika saya mengklik tautan untuk memuat/melihat file PDF di situs web dan popup dimuat dan setelah beberapa waktu saya mendapat kotak dialog yang mengatakan CefSharp.BrowserSubprocess.exe telah berhenti bekerja. dan jendela popup oped menjadi hitam.

@@ -1,0 +1,1 @@
+Standar deviasi populasi mengukur variabilitas data dalam suatu populasi. Biasanya merupakan konstanta yang tidak diketahui. Varians 2 dan simpangan baku dari populasi diberikan oleh: Dimana: = simpangan baku populasi. 2 = varians populasi. x 1, ..., x N = kumpulan data populasi. = mean dari kumpulan data populasi. N = ukuran kumpulan data populasi.

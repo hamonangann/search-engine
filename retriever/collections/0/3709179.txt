@@ -1,0 +1,1 @@
+Ping online : Jika Anda tidak dapat menggunakan perintah Ping dari komputer Anda sendiri karena firewall atau batasan lainnya, atau ingin melakukan ping Internet dari lokasi lain selain Anda sendiri, Anda dapat menggunakan salah satu situs web berikut yang menawarkan online layanan ping:

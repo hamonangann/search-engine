@@ -1,0 +1,1 @@
+1 Lihat KB10011: Ikhtisar Alat Font Morovia untuk formula yang tepat untuk digunakan. Anda dapat menggunakan fungsi salin/tempel yang disediakan oleh Excel untuk menyalin rumus ke sel lain. Excel secara otomatis menyesuaikan nama sel sumber. Misalnya, jika Anda menyalin dan menempelkan sel kode batang B1 ke B2, Excel akan menggunakan A2 sebagai sel sumber.

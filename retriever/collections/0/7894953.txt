@@ -1,0 +1,1 @@
+Lokasi absolut juga dapat merujuk ke alamat, alamat jalan US State Capitol adalah First St SE di Washington, DC 20004. Dalam kedua kasus, lokasi absolut mengacu pada titik tetap berdasarkan jaringan abstrak lokasi imajiner.

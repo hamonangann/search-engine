@@ -1,0 +1,1 @@
+Tingkat produktivitas khusus tim: Seperti kebanyakan fungsi aplikasi, anggota CEB melacak produktivitas tim menggunakan metrik standar industri termasuk baris kode, titik fungsi, waktu, dan biaya. Tapi ini tidak digunakan untuk membandingkan tingkat produktivitas di seluruh tim.

@@ -1,0 +1,1 @@
+USGS dan lembaga lainnya sering mengacu pada persentase kemungkinan terjadinya sebagai Probabilitas Melampaui Tahunan atau AEP. Sebuah AEP selalu merupakan pecahan dari satu. Jadi banjir AEP 0,2 memiliki peluang 20% terjadi pada tahun tertentu, dan ini sesuai dengan banjir interval berulang 5 tahun.

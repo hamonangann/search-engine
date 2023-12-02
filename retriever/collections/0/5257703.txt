@@ -1,0 +1,1 @@
+1 Massa molar suatu zat dihitung dengan mengalikan massa atom relatifnya dengan konstanta massa molar (1 g/mol). Konstanta massa molar dapat digunakan untuk mengubah massa menjadi mol. Dengan mengalikan massa tertentu dengan massa molar, jumlah mol zat dapat dihitung.

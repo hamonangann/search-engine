@@ -1,0 +1,1 @@
+Jika setelan TTL DNS Anda adalah 12 jam, data DNS Anda akan di-cache selama 12 jam sebelum kedaluwarsa dan informasi baru akan berlaku. TTL pada domain 1&1 disetel hingga 1 jam untuk semua data A, AAA, MX, TXT, dan CNAME.

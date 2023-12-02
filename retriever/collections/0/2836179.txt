@@ -1,0 +1,1 @@
+Setiap biro menyimpan satu laporan kredit untuk setiap orang. Informasi dalam setiap laporan dapat berbeda karena kreditur tidak harus melaporkan informasi akun ke ketiganya. Skor kredit: Ada 53 skor FICO yang berbeda.

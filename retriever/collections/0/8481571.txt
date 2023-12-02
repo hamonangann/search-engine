@@ -1,0 +1,1 @@
+Sebagian besar kesalahan Antarmuka Kelas Perangkat Lunak Hklm disebabkan oleh file yang rusak di sistem operasi Windows. Korupsi entri file sistem Windows adalah masalah serius, karena sering kali berarti malfungsi yang dapat menimbulkan risiko keamanan besar.

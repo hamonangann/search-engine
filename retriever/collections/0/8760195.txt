@@ -1,0 +1,1 @@
+Perangkat lunak sistem adalah program yang mengelola sumber daya sistem komputer dan menyederhanakan pemrograman aplikasi. Mereka termasuk perangkat lunak seperti sistem operasi, sistem manajemen basis data, perangkat lunak jaringan, penerjemah, dan utilitas perangkat lunak.

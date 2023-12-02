@@ -1,0 +1,1 @@
+Secara matematis, IRR dapat ditemukan dengan menetapkan persamaan NPV di atas sama dengan nol (0) dan menyelesaikan tingkat pengembalian (IRR). Perbedaan Antara NPV vs IRR. Jadi, apa perbedaan antara NPV dan IRR? Seperti yang ditunjukkan dalam rumus di atas, rumus NPV memecahkan nilai sekarang dari aliran arus kas, dengan tingkat diskonto.

@@ -1,0 +1,1 @@
+Wiki Chromium resmi menyediakan tabel terperinci tentang perbedaan antara Google Chrome dan Chromium. Itu tidak mencerminkan perbedaan sumber vanilla versus yang khusus untuk paket Chromium yang disediakan oleh Ubuntu.

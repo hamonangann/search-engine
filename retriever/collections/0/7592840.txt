@@ -1,0 +1,1 @@
+Semua tuas memiliki struktur kaku yang berputar di sekitar titik yang disebut titik tumpu. Gaya yang diberikan pada tuas disebut gaya masukan. Gaya yang diberikan pada suatu beban disebut gaya keluaran. Ada tiga jenis atau kelas tuas. Kelas tuas tergantung pada lokasi titik tumpu dan gaya input dan output. Gambar di bawah ini menunjukkan contoh dari tiga kelas pengungkit.

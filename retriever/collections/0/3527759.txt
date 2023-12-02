@@ -1,0 +1,1 @@
+Daftar Antibiotik Berdasarkan Kelas Berikut ini adalah daftar antibiotik. Pembagian tertinggi adalah antara antibiotik bakterisida dan antibiotik [[bakteriostatik]]. Bakterisida membunuh bakteri secara langsung, sedangkan bakteriostatik mencegah mereka membelah. Namun, klasifikasi ini didasarkan pada perilaku laboratorium.

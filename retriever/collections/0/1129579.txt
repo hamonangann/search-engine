@@ -1,0 +1,1 @@
+Simbol Hak Cipta HTML (menyisipkan Simbol Hak Cipta di halaman HTML) HTML mendukung simbol khusus yang tidak ada di keyboard Anda. Kode simbol khusus untuk simbol hak cipta pada HTML adalah &copy. Kode didefinisikan dengan dimulai dengan & (ampersand) dan diakhiri dengan ; (titik koma). Contoh kode yang menggunakan nama simbol khusus adalah sebagai berikut.

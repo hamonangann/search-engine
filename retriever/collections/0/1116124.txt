@@ -1,0 +1,1 @@
+ QA meninjau SOP untuk kepatuhan terhadap GLP QA tidak menyetujui SOP (dalam lingkungan GLP) GLP tidak mengharuskan QA menandatangani SOP QA bertanggung jawab untuk memastikan Manajemen bahwa prosedur kerja mematuhi SOP QA bertanggung jawab untuk melaporkan penyimpangan untuk Direktur Studi dan Manajemen

@@ -1,0 +1,1 @@
+Kipas pendingin elektrik dikendalikan oleh Powertrain Control Module (PCM) melalui relai kipas pendingin berdasarkan input dari komponen berikut: - Sensor suhu cairan pendingin engine (ECT). - Sensor suhu udara masuk (IAT). - Saklar pemilih A/C. - Sensor tekanan pendingin AC.

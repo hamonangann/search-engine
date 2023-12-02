@@ -1,0 +1,1 @@
+Biasanya, saat Anda menghubungkan drive melalui FW800, komputer harus memulai serangkaian tindakan agar drive siap digunakan, mirip dengan langkah FireWire 400 yang disebutkan di atas. Perangkat FireWire 800 tertentu menyediakan fitur menarik yang tidak dimiliki USB, yang disebut daisy-chain.

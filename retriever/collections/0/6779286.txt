@@ -1,0 +1,1 @@
+Satu kalibrasi adalah untuk uji klorin total 0 hingga 4,5 mg/L (rentang tinggi). Kalibrasi lainnya adalah untuk uji klorin bebas 0 hingga 2,00 mg/L dan total klorin. Untuk melakukan kalibrasi yang dimasukkan pengguna, buat larutan standar klorin (sampel dengan konsentrasi klorin yang diketahui dapat digunakan).

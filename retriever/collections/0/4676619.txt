@@ -1,0 +1,1 @@
+LSP - Definisi Komputer. Dalam Multiprotocol Label Switching (MPLS), jalur fisik dipilih oleh Label Edge Router (LER) untuk aliran paket antara titik akhir umum dan berdasarkan Forwarding Equivalence Class (FEC) yang terkait dengan aliran paket.

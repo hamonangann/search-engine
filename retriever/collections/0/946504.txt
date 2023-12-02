@@ -1,0 +1,1 @@
+1 Dalam Pencarian Panel Kontrol masuk ke Panel Kontrol Java. 2 Klik ikon Java untuk membuka Panel Kontrol Java. 3 Klik tombol Start dan kemudian klik opsi Control Panel. 4 Klik dua kali pada ikon Java untuk membuka Panel Kontrol Java.

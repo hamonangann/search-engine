@@ -1,0 +1,1 @@
+1 Cara menggunakan fungsi MATCH. 2 Cara menggunakan fungsi INDEX. 3 Skenario di mana VLOOKUP tidak berfungsi atau bukan solusi terbaik. Cara menggabungkan fungsi INDEX dan MATCH dalam rumus Anda untuk melakukan pencarian yang tidak bisa dilakukan VLOOKUP.

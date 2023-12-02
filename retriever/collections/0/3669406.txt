@@ -1,0 +1,1 @@
+Hipotenusa Segitiga Kanan. Sisi miring adalah sisi terbesar dalam segitiga siku-siku dan selalu berhadapan dengan sudut siku-siku. Pada segitiga di sebelah kiri, sisi miringnya adalah sisi AB yang berhadapan dengan sudut siku-siku, $$ \sudut C $$. Kalkulator Hipotenusa. Alat online menghitung sisi miring (atau kaki) menggunakan teorema Pythagoras.

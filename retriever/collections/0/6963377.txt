@@ -1,0 +1,1 @@
+Nomor pendaftaran ini mewakili jumlah pendaftar yang menerima kontrak. pembayaran untuk bulan tersebut. 7. Tanda bintang di tempat nomor pendaftaran menunjukkan bahwa hitungannya kurang dari 10. 8. Kontrak percontohan dikecualikan dari direktori ini.

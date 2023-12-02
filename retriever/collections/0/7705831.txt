@@ -1,0 +1,1 @@
+Dekompresi. Untuk menggunakan file terkompresi, Anda harus mendekompresnya terlebih dahulu. Perangkat lunak yang digunakan untuk dekompresi tergantung pada bagaimana file dikompresi di tempat pertama. Untuk mendekompresi file .zip, Anda memerlukan perangkat lunak, seperti WinZip. Untuk mendekompresi file .sit, Anda memerlukan program Stuffit Expander.

@@ -1,0 +1,1 @@
+Kontrol data digital (DDC) adalah kontrol otomatis dari suatu kondisi atau proses oleh perangkat digital (komputer). DDC mengambil pendekatan berorientasi jaringan terpusat. Semua instrumentasi dikumpulkan oleh berbagai konverter analog dan digital yang menggunakan jaringan untuk mengangkut sinyal-sinyal ini ke pengontrol pusat.

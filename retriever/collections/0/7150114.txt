@@ -1,0 +1,1 @@
+Alat ini akan menentukan berapa nilai (persentase) yang Anda butuhkan pada ujian akhir Anda untuk mendapatkan nilai tertentu di kelas. Nilai Anda saat ini adalah %. Anda ingin (setidaknya) % di kelas.

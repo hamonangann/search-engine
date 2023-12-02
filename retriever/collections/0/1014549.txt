@@ -1,0 +1,1 @@
+Gerak Melingkar - Gerak melingkar beraturan. 1 Dalam fisika, gerak melingkar beraturan menggambarkan gerak suatu benda yang melintasi lintasan melingkar dengan kecepatan konstan. Karena benda menggambarkan gerak melingkar, jaraknya dari sumbu rotasi tetap konstan sepanjang waktu.

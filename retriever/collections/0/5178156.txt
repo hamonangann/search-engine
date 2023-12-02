@@ -1,0 +1,1 @@
+REFERENSI SEL EXCEL. Lebih sering daripada tidak ketika kita membuat rumus menggunakan salah satu fungsi bawaan Excel, kita akan merujuknya ke sel atau rentang sel. Contoh referensi sel tunggal adalah A1. Contoh rentang referensi sel adalah A1:A10.

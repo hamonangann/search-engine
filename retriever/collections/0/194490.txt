@@ -1,0 +1,1 @@
+Singkatnya, ini adalah file skrip yang digunakan untuk mengotomatisasi tugas di sistem operasi DOS, Windows, dan OS/2. Saat membuat file batch, Anda juga dapat mengaktifkan loop (untuk), pernyataan bersyarat (jika), pernyataan kontrol (goto), dll. Anda dapat menjalankan file batch langsung dari command prompt dengan mengetikkan namanya.

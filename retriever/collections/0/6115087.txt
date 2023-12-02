@@ -1,0 +1,1 @@
+Resistensi ledakan sebenarnya tidak berkurang x% kerusakan ledakan. Resistensi ledakan adalah nilai. Ini untuk mengatakan bahwa ketahanan ledakan satu blok akan menjadi nilai tertentu, dan apakah bahan peledak akan menghancurkannya tergantung pada nilai resistansi dan kekuatan ledakan.

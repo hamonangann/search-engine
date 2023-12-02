@@ -1,0 +1,1 @@
+Diberikan ruang vektor V di atas subbidang F dari bilangan kompleks, norma pada V adalah fungsi p: V R dengan sifat-sifat berikut: Untuk semua a F dan semua u, v V, p(av) = | sebuah | p(v) (benar-benar homogen atau benar-benar terukur).

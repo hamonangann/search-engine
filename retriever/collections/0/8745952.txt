@@ -1,0 +1,1 @@
+Analisis regresi melibatkan studi tentang bentuk dan arah hubungan antara dua variabel atau lebih. Tujuan utama dari analisis regresi adalah untuk memprediksi nilai variabel dependen atau respon berdasarkan nilai variabel independen atau variabel penjelas.

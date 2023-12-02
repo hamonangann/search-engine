@@ -1,0 +1,1 @@
+Dalam pengambilan sampel survei, bobot dapat diterapkan pada data untuk menyesuaikan desain sampel, khususnya pengambilan sampel bertingkat. Hasil dari teori probabilitas dan teori statistik digunakan untuk memandu praktik. Dalam penelitian bisnis dan medis, pengambilan sampel banyak digunakan untuk mengumpulkan informasi tentang suatu populasi.

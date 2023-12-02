@@ -1,0 +1,1 @@
+Linksys Broadband Router/Firewall. Linksys membuat sejumlah router broadband (dengan fungsionalitas firewall dasar) dan firewall broadband (dengan fungsionalitas firewall canggih) untuk jaringan kabel dan nirkabel. Sebagian besar produk kabel dimulai dengan nomor model BEF; sebagian besar produk nirkabel dimulai dengan nomor model WRT.

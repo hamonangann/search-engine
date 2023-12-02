@@ -1,0 +1,1 @@
+Pengguna dapat menyegarkan data seperti yang diinginkan dari sistem sumber serta membuat bookmark dan cabang versi data dalam lingkungan mereka. Lingkungan data virtual, atau pod data, dapat dibagikan dengan pengguna lain untuk mendorong kolaborasi (misalnya antara tim pengembangan & QA) dan meningkatkan efisiensi.

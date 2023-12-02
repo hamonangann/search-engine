@@ -1,0 +1,1 @@
+Di sini, kami mengembangkan protokol berbasis PCR sederhana untuk mendeteksi mutasi indel yang disebabkan oleh TALEN dan Cas9 pada ikan zebra. Kami merancang 2 pasang primer untuk setiap lokus target, dengan satu amplikon diduga memanjang di luar situs indel diduga dan yang lainnya tumpang tindih.

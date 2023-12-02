@@ -1,0 +1,1 @@
+NSLOOKUP adalah program untuk menanyakan server nama domain Internet (DNS). NSLOOKUP atau Reverse DNS (rDNS) adalah metode untuk menyelesaikan alamat IP menjadi nama domain, seperti halnya sistem nama domain (DNS) menyelesaikan nama domain menjadi alamat IP terkait. Alamat IP.

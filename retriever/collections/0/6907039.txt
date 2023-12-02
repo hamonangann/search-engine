@@ -1,0 +1,1 @@
+Periksa Apakah JavaScript Diaktifkan. Jika Anda mengklik tombol Uji JavaScript, maka kotak teks di bawahnya akan menampilkan 'Ya, JavaScript diaktifkan.'. Setelah Anda mengkliknya, jika teks ditampilkan diaktifkan, anggap JavaScript sedang berjalan. Apa selanjutnya di Radar Loop Test. Langkah 1 - Pemeriksaan Javascript.

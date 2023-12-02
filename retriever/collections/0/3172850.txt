@@ -1,0 +1,1 @@
+Mutasi gen didefinisikan sebagai perubahan urutan nukleotida DNA. Sebuah gen dapat bermutasi tanpa menghasilkan perubahan fungsional pada protein yang dihasilkan dari gen tersebut jika. sebuah kodon telah berubah, tetapi mengkode asam amino yang sama dengan kodon aslinya. Misalkan untai DNA template dari 'mini-gen' memiliki urutan dasar TACCCGGATTCA.

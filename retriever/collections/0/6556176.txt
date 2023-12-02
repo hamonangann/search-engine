@@ -1,0 +1,1 @@
+Hal-hal penting untuk diperiksa: 1 Kolom di lembar Excel Anda harus sesuai dengan bidang yang ingin Anda gunakan saat melakukan gabungan surat. 2 Jika file Excel Anda menyertakan tanggal, waktu, nilai mata uang, atau kode pos yang dimulai atau diakhiri dengan 0, lihat cara memformat angka, tanggal, dan mata uang gabungan surat dengan benar.

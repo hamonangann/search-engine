@@ -1,0 +1,1 @@
+Ada dua jenis pustaka C/C++ Linux yang dapat dibuat: 1 Pustaka statis (.a): Pustaka kode objek yang ditautkan, dan menjadi bagian dari aplikasi. 2 Pustaka objek bersama yang ditautkan secara dinamis (.so): Hanya ada satu bentuk pustaka ini tetapi dapat digunakan dalam dua cara.

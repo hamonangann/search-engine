@@ -1,0 +1,1 @@
+Saat menulis koordinat urutan biasanya lintang (Y) sebelum bujur (X), perhatikan bahwa ini adalah kebalikan dari notasi matematika (X-Y) yang digunakan oleh sistem koordinat kartesius. Arah positif lintang dan bujur sama dengan sistem koordinat kartesius.

@@ -1,0 +1,1 @@
+Jika Kerangka Kerja Analitik Sense-Making menerima peringatan, Kerangka Kerja Analitik berdasarkan kebijakan dan proses perusahaan akan melakukan sejumlah operasi (yaitu alur kerja analitik tertentu ) untuk memperkaya informasi peringatan.

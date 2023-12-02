@@ -1,0 +1,1 @@
+Interval di mana suatu fungsi positif, negatif, meningkat, atau menurun. 1 Naik, turun, interval positif atau negatif. 2 Contoh yang berhasil: interval positif & negatif. 3 Latihan: Interval positif dan negatif. Latihan: Meningkatkan dan mengurangi interval.

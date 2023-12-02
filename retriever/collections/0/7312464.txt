@@ -1,0 +1,1 @@
+Tetapi Anda dapat menggunakan transformasi berikut. $$x' = x\cos \theta-y \sin \theta$$ $$y' = x \sin \theta + y \cos \theta$$. untuk memutar dengan sudut $\theta$. Titik $(x,y)$ diputar ke titik $(x',y')$. Catatan: ini adalah rotasi tentang asal.

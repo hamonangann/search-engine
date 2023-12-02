@@ -1,0 +1,1 @@
+Aturan umumnya adalah bahwa sebuah kalimat diakhiri dengan hanya satu tanda baca terminal. Ada tiga opsi: Periode. Tanda tanya. Tanda seru. Namun, ada cukup pengecualian untuk aturan umum ini, untuk menjamin bagan berikut, yang menunjukkan hampir semua skenario yang mungkin Anda hadapi.

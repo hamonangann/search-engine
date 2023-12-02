@@ -1,0 +1,1 @@
+Dasar-dasar Layanan Pelaporan SQL Server: Membuat Laporan SSRS. SQL Server Reporting Services (SSRS) adalah platform pelaporan berbasis server yang memungkinkan kami membuat dan mengelola berbagai jenis laporan yang berbeda, dan mengirimkannya dalam berbagai format.

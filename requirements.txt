@@ -1,1 +1,5 @@
 Django==4.0.4
+tqdm
+git+https://github.com/ariaghora/mpstemmer.git
+PySastrawi
+python-Levenshtein
