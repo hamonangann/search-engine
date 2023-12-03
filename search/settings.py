@@ -46,7 +46,7 @@ else:
     raise Exception("No local .env or GOOGLE_CLOUD_PROJECT detected. No secrets found.")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = env('DEBUG')
 
 # SECURITY WARNING: It's recommended that you use this when
 # running in production. The URL will be known once you first deploy
