@@ -281,6 +281,10 @@ class BSBIIndex:
         JANGAN LEMPAR ERROR/EXCEPTION untuk terms yang TIDAK ADA di collection.
         """
         # TODO
+
+        if len(query) <= 1:
+            return [], []
+        
         stop_factory = StopWordRemoverFactory()
         stop_words_list: List[str] = stop_factory.get_stop_words()
         stop_words_set: Set[str] = set(stop_words_list)

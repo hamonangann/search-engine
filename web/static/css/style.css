@@ -177,3 +177,22 @@ a {
 .doc-content {
     color: #cac7ff;
 }
+
+.pagination {
+    display: flex;
+    flex-direction: row;
+}
+
+.pagination button {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.pagination button:hover {
+    color: #cac7ff;
+}

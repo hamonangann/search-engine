@@ -15,9 +15,19 @@ def list_docs(request):
     my_app_config = apps.get_app_config('web')
 
     query = request.GET.get('query')
+    print(query)
+    if query == None:
+        query = ""
+
+    page = request.GET.get('page')
+    if page == None:
+        page = 1
+    else:
+        page = int(page)
+
     doc_names, doc_ids = retrieve(my_app_config.bsbi_instance, query)
     docs = []
-    for i in range(len(doc_names)):
+    for i in range((page-1)*5, min(len(doc_ids), page*5)):
         doc_summary = my_app_config.cache.get(doc_ids[i])
 
         if doc_summary == None:
@@ -28,7 +38,7 @@ def list_docs(request):
     time_stop = time.time()
     time_count = time_stop - time_start
 
-    return render(request, 'list_docs.html', {'query': query, 'docs': docs, 'time_count': time_count})
+    return render(request, 'list_docs.html', {'page': page, 'query': query, 'docs': docs, 'time_count': time_count})
 
 def view_doc(request, doc_id):
     my_app_config = apps.get_app_config('web')
