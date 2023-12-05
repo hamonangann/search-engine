@@ -43,18 +43,23 @@
 
     <div class="pagination">
       {% if page != 1 %}
-      <form action="/docs/" method="get">
-        <input name="query" value="{{query}}" hidden>
-        <input name="page" value="{{page|add:'-1'}}" hidden>
-        <button type="submit">&lt; Prev</button>
-      </form>
+        <form action="/docs/" method="get">
+          <input name="query" value="{{query}}" hidden>
+          <input name="page" value="{{page|add:'-1'}}" hidden>
+          <button type="submit">&lt; Prev</button>
+        </form>
+      {% else %}
+        <button disabled>&lt; Prev</button>
       {% endif %}
+
       {% if docs %}
-      <form action="/docs/" method="get">
-        <input name="query" value="{{query}}" hidden>
-        <input name="page" value="{{page|add:'1'}}" hidden>
-        <button type="submit">Next &gt;</button>
-      </form>
+        <form action="/docs/" method="get">
+          <input name="query" value="{{query}}" hidden>
+          <input name="page" value="{{page|add:'1'}}" hidden>
+          <button type="submit">Next &gt;</button>
+        </form>
+      {% else %}
+        <button disabled>Next &gt;</button>
       {% endif %}
     </div>
   </div>
