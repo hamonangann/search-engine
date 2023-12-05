@@ -303,7 +303,7 @@ class BSBIIndex:
         tokens_without_stop_words: List[str] = [token for token in stemmed_tokens if token not in stop_words_set]
 
         final_query_list = tokens_without_stop_words
-        print(final_query_list)
+        # print(final_query_list)
 
         self.load()
 

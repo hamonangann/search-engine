@@ -13,7 +13,7 @@
       <a href="/"><h1>Googolplex!</h1></a>
     </div>
     <form action="/docs/" method="get" class="search-bar-small">
-      <input name="query" type="text" value="" placeholder="Search anything...">
+      <input name="query" type="text" value="{{query}}" placeholder="Search anything...">
       <button type="submit"><img src="{% static 'images/search.png' %}"></button>
     </form>
   </div>
@@ -28,10 +28,7 @@
             <a href="/doc/{{ doc.id }}"><h3>{{ doc.name }}</h3></a>
           </div>
           <div class="doc-content">
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+            <p>{{ doc.summary }}...</p>
           </div>
         </article>
       {% endfor %}
