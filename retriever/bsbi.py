@@ -131,7 +131,7 @@ class BSBIIndex:
 
         for cur_file in tqdm(os.listdir(self.data_path + block_path)):
             with open(os.path.join(self.data_path + block_path, cur_file), 'r') as f:
-                file_path = os.path.join(cur_file)
+                file_path = os.path.join(self.data_path + block_path, cur_file)
                 doc_id = self.doc_id_map[file_path]
 
                 text = f.read()
@@ -323,7 +323,7 @@ class BSBIIndex:
 
         result = [self.doc_id_map[d] for d in result_ids]
 
-        return result
+        return result, result_ids
 
 
 if __name__ == "__main__":
