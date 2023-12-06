@@ -25,8 +25,7 @@ class IdMap:
 
     def __len__(self):
         """Mengembalikan banyaknya term (atau dokumen) yang disimpan di IdMap."""
-        # TODO
-        return len(self.id_to_str)
+        return len(self.str_to_id)
 
     def __get_id(self, s):
         """
@@ -34,17 +33,13 @@ class IdMap:
         Jika s tidak ada pada IdMap, lalu assign sebuah integer id baru dan kembalikan
         integer id baru tersebut.
         """
-        # TODO
-        if self.str_to_id.get(s) == None:
-            self.str_to_id[s] = len(self.id_to_str)
+        if s not in self.str_to_id:
+            self.str_to_id[s] = len(self.str_to_id)
             self.id_to_str.append(s)
-        return self.str_to_id.get(s)
-    
+        return self.str_to_id[s]
+
     def __get_str(self, i):
         """Mengembalikan string yang terasosiasi dengan index i."""
-        # TODO
-        if i >= len(self.id_to_str):
-            return None
         return self.id_to_str[i]
 
     def __getitem__(self, key):
@@ -58,50 +53,60 @@ class IdMap:
 
         https://stackoverflow.com/questions/43627405/understanding-getitem-method
 
+        Jika key adalah integer, gunakan __get_str;
+        jika key adalah string, gunakan __get_id
         """
-        # TODO
         if isinstance(key, int):
             return self.__get_str(key)
-        return self.__get_id(key)
+        elif isinstance(key, str):
+            return self.__get_id(key)
+        else:
+            raise TypeError("Error: Key Type for IdMap is Unsupported")
 
-def sort_intersect_list(list_A, list_B):
+
+def merge_and_sort_posts_and_tfs(posts_tfs1, posts_tfs2):
     """
-    Intersects two (ascending) sorted lists and returns the sorted result
-    Melakukan Intersection dua (ascending) sorted lists dan mengembalikan hasilnya
-    yang juga terurut.
+    Menggabung (merge) dua lists of tuples (doc id, tf) dan mengembalikan
+    hasil penggabungan keduanya (TF perlu diakumulasikan untuk semua tuple
+    dengn doc id yang sama), dengan aturan berikut:
+
+    contoh: posts_tfs1 = [(1, 34), (3, 2), (4, 23)]
+            posts_tfs2 = [(1, 11), (2, 4), (4, 3 ), (6, 13)]
+
+            return   [(1, 34+11), (2, 4), (3, 2), (4, 23+3), (6, 13)]
+                   = [(1, 45), (2, 4), (3, 2), (4, 26), (6, 13)]
 
     Parameters
     ----------
-    list_A: List[Comparable]
-    list_B: List[Comparable]
-        Dua buah sorted list yang akan di-intersect.
+    list1: List[(Comparable, int)]
+    list2: List[(Comparable, int]
+        Dua buah sorted list of tuples yang akan di-merge.
 
     Returns
     -------
-    List[Comparable]
-        intersection yang sudah terurut
+    List[(Comparable, int)]
+        Penggabungan yang sudah terurut
     """
-    # TODO
-    res = []
-    idx_A = 0
-    idx_B = 0
-    while idx_A < len(list_A) and idx_B < len(list_B):
-        if list_A[idx_A] == list_B[idx_B]:
-            res.append(list_A[idx_A])
-            idx_A += 1
-            idx_B += 1
-        elif list_A[idx_A] < list_B[idx_B]:
-            idx_A += 1
-        else:
-            idx_B += 1
+    merged = {}
+    
+    for doc_id, tf in posts_tfs1:
+        merged[doc_id] = merged.get(doc_id, 0) + tf
 
-    return res
+    for doc_id, tf in posts_tfs2:
+        merged[doc_id] = merged.get(doc_id, 0) + tf
+
+    sorted_list = sorted(merged.items(), key=lambda x: x[0])
+
+    return sorted_list
+
 
 if __name__ == '__main__':
 
     doc = ["halo", "semua", "selamat", "pagi", "semua"]
     term_id_map = IdMap()
-    assert [term_id_map[term] for term in doc] == [0, 1, 2, 3, 1], "term_id salah"
+
+    assert [term_id_map[term]
+            for term in doc] == [0, 1, 2, 3, 1], "term_id salah"
     assert term_id_map[1] == "semua", "term_id salah"
     assert term_id_map[0] == "halo", "term_id salah"
     assert term_id_map["selamat"] == 2, "term_id salah"
@@ -111,8 +116,8 @@ if __name__ == '__main__':
             "/collection/0/data10.txt",
             "/collection/1/data53.txt"]
     doc_id_map = IdMap()
-    assert [doc_id_map[docname] for docname in docs] == [0, 1, 2], "docs_id salah"
-    
-    assert sort_intersect_list([1, 2, 3], [2, 3]) == [2, 3], "sorted_intersect salah"
-    assert sort_intersect_list([4, 5], [1, 4, 7]) == [4], "sorted_intersect salah"
-    assert sort_intersect_list([], []) == [], "sorted_intersect salah"
+    assert [doc_id_map[docname]
+            for docname in docs] == [0, 1, 2], "docs_id salah"
+
+    assert merge_and_sort_posts_and_tfs([(1, 34), (3, 2), (4, 23)],
+                                        [(1, 11), (2, 4), (4, 3), (6, 13)]) == [(1, 45), (2, 4), (3, 2), (4, 26), (6, 13)], "merge_and_sort_posts_and_tfs salah"

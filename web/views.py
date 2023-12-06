@@ -4,6 +4,7 @@ from retriever.search import retrieve, find_doc_path
 from .apps import WebConfig
 
 import time
+import os
 
 # Create your views here.
 def index(request):
@@ -25,15 +26,15 @@ def list_docs(request):
     else:
         page = int(page)
 
-    doc_names, doc_ids = retrieve(my_app_config.bsbi_instance, query)
+    docs_raw = retrieve(my_app_config.bsbi_instance, my_app_config.letor_instance, query)
     docs = []
-    for i in range((page-1)*5, min(len(doc_ids), page*5)):
-        doc_summary = my_app_config.cache.get(doc_ids[i])
+    for i in range((page-1)*10, min(len(docs_raw), page*10)):
+        doc_summary = my_app_config.cache.get(docs_raw[i][2])
 
         if doc_summary == None:
-            doc_summary = my_app_config.cache.set(doc_ids[i], doc_names[i])
+            doc_summary = my_app_config.cache.set(docs_raw[i][2], docs_raw[i][1])
 
-        docs.append({'name': doc_names[i], 'id': doc_ids[i], 'summary': doc_summary})
+        docs.append({'name': docs_raw[i][1], 'id': docs_raw[i][2], 'summary': doc_summary})
 
     time_stop = time.time()
     time_count = time_stop - time_start
@@ -45,5 +46,5 @@ def view_doc(request, doc_id):
 
     doc_path = find_doc_path(my_app_config.bsbi_instance, int(doc_id))
 
-    with open(doc_path, 'r') as f:
+    with open(os.path.join('retriever', 'collections', doc_path), 'r') as f:
         return render(request, 'view_doc.html', {'doc_id': doc_id, 'doc_name': doc_path, 'doc_content': f.read()})

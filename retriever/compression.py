@@ -52,6 +52,42 @@ class StandardPostings:
         decoded_postings_list.frombytes(encoded_postings_list)
         return decoded_postings_list.tolist()
 
+    @staticmethod
+    def encode_tf(tf_list):
+        """
+        Encode list of term frequencies menjadi stream of bytes
+
+        Parameters
+        ----------
+        tf_list: List[int]
+            List of term frequencies
+
+        Returns
+        -------
+        bytes
+            bytearray yang merepresentasikan nilai raw TF kemunculan term di setiap
+            dokumen pada list of postings
+        """
+        return StandardPostings.encode(tf_list)
+
+    @staticmethod
+    def decode_tf(encoded_tf_list):
+        """
+        Decodes list of term frequencies dari sebuah stream of bytes
+
+        Parameters
+        ----------
+        encoded_tf_list: bytes
+            bytearray merepresentasikan encoded term frequencies list sebagai keluaran
+            dari static method encode_tf di atas.
+
+        Returns
+        -------
+        List[int]
+            List of term frequencies yang merupakan hasil decoding dari encoded_tf_list
+        """
+        return StandardPostings.decode(encoded_tf_list)
+
 
 class VBEPostings:
     """ 
@@ -73,6 +109,31 @@ class VBEPostings:
     """
 
     @staticmethod
+    def vb_encode_number(number):
+        """
+        Encodes a number using Variable-Byte Encoding
+        Lihat buku teks kita!
+        """
+        bytes_of_number = bytearray()
+        bytes_of_number.append(number % 128 + 128)
+        number //= 128
+        while number > 0:
+            bytes_of_number.append(number % 128)
+            number //= 128
+        return bytes(reversed(bytes_of_number))
+
+    @staticmethod
+    def vb_encode(list_of_numbers):
+        """ 
+        Melakukan encoding (tentunya dengan compression) terhadap
+        list of numbers, dengan Variable-Byte Encoding
+        """
+        encoded_bytes = bytearray()
+        for number in list_of_numbers:
+            encoded_bytes.extend(VBEPostings.vb_encode_number(number))
+        return bytes(encoded_bytes)
+
+    @staticmethod
     def encode(postings_list):
         """
         Encode postings_list menjadi stream of bytes (dengan Variable-Byte
@@ -89,46 +150,45 @@ class VBEPostings:
         bytes
             bytearray yang merepresentasikan urutan integer di postings_list
         """
-        # TODO
-        postings_list_gaps: List[int] = []
-
-        if len(postings_list) > 0:
-            postings_list_gaps.append(postings_list[0])
-
+        gap_list = [postings_list[0]]
         for i in range(1, len(postings_list)):
-            postings_list_gaps.append(postings_list[i] - postings_list[i-1])
-
-        return VBEPostings.vb_encode(postings_list_gaps)
-    
-    @staticmethod
-    def vb_encode(list_of_numbers):
-        """ 
-        Melakukan encoding (tentunya dengan compression) terhadap
-        list of numbers, dengan Variable-Byte Encoding
-        """
-        # TODO
-        encoded_postings_list = bytearray()
-        for number in list_of_numbers:
-            encoded_postings_list.extend(VBEPostings.vb_encode_number(number))
-
-        return bytes(encoded_postings_list)
+            gap_list.append(postings_list[i] - postings_list[i-1])
+        return VBEPostings.vb_encode(gap_list)
 
     @staticmethod
-    def vb_encode_number(number):
+    def encode_tf(tf_list):
         """
-        Encodes a number using Variable-Byte Encoding
-        Lihat buku teks kita!
+        Encode list of term frequencies menjadi stream of bytes
+
+        Parameters
+        ----------
+        tf_list: List[int]
+            List of term frequencies
+
+        Returns
+        -------
+        bytes
+            bytearray yang merepresentasikan nilai raw TF kemunculan term di setiap
+            dokumen pada list of postings
         """
-        # TODO
-        res = bytearray()
-        res.append(128 + (number % 128))
-        while (number >= 128):
-            number //= 128
-            res.append(number % 128)
+        return VBEPostings.vb_encode(tf_list)
 
-        res.reverse()
-
-        return res
+    @staticmethod
+    def vb_decode(encoded_bytestream):
+        """
+        Decoding sebuah bytestream yang sebelumnya di-encode dengan
+        variable-byte encoding.
+        """
+        numbers = []
+        n = 0
+        for byte in encoded_bytestream:
+            if (byte < 128):
+                n = 128 * n + byte
+            else:
+                n = 128 * n + byte - 128
+                numbers.append(n)
+                n = 0
+        return numbers
 
     @staticmethod
     def decode(encoded_postings_list):
@@ -148,46 +208,49 @@ class VBEPostings:
         List[int]
             list of docIDs yang merupakan hasil decoding dari encoded_postings_list
         """
-        # TODO
-        decoded_postings_list = VBEPostings.vb_decode(encoded_postings_list)
-        postings_list_with_no_gap: List[int] = []
-
-        if len(decoded_postings_list) > 0:
-            postings_list_with_no_gap.append(decoded_postings_list[0])
-
-        for i in range(1, len(decoded_postings_list)):
-            postings_list_with_no_gap.append(decoded_postings_list[i] + postings_list_with_no_gap[i-1])
-
-        return postings_list_with_no_gap
+        gap_list = VBEPostings.vb_decode(encoded_postings_list)
+        postings_list = [gap_list[0]]
+        for i in range(1, len(gap_list)):
+            postings_list.append(postings_list[-1] + gap_list[i])
+        return postings_list
 
     @staticmethod
-    def vb_decode(encoded_bytestream):
+    def decode_tf(encoded_tf_list):
         """
-        Decoding sebuah bytestream yang sebelumnya di-encode dengan
-        variable-byte encoding.
-        """
-        numbers = []
-        n = 0
-        for byte in encoded_bytestream:
-            if (byte < 128):
-                n = 128 * n + byte
-            else:
-                n = 128 * n + byte - 128
-                numbers.append(n)
-                n = 0
-        return numbers
+        Decodes list of term frequencies dari sebuah stream of bytes
 
-    
+        Parameters
+        ----------
+        encoded_tf_list: bytes
+            bytearray merepresentasikan encoded term frequencies list sebagai keluaran
+            dari static method encode_tf di atas.
+
+        Returns
+        -------
+        List[int]
+            List of term frequencies yang merupakan hasil decoding dari encoded_tf_list
+        """
+        return VBEPostings.vb_decode(encoded_tf_list)
+
 
 if __name__ == '__main__':
-    
+
     postings_list = [34, 67, 89, 454, 2345738]
+    tf_list = [12, 10, 3, 4, 1]
     for Postings in [StandardPostings, VBEPostings]:
         print(Postings.__name__)
         encoded_postings_list = Postings.encode(postings_list)
-        print("byte hasil encode: ", encoded_postings_list)
-        print("ukuran encoded postings: ", len(encoded_postings_list), "bytes")
+        encoded_tf_list = Postings.encode_tf(tf_list)
+        print("byte hasil encode postings: ", encoded_postings_list)
+        print("ukuran encoded postings   : ",
+              len(encoded_postings_list), "bytes")
+        print("byte hasil encode TF list : ", encoded_tf_list)
+        print("ukuran encoded postings   : ", len(encoded_tf_list), "bytes")
+
         decoded_posting_list = Postings.decode(encoded_postings_list)
-        print("hasil decoding: ", decoded_posting_list)
+        decoded_tf_list = Postings.decode_tf(encoded_tf_list)
+        print("hasil decoding (postings): ", decoded_posting_list)
+        print("hasil decoding (TF list) : ", decoded_tf_list)
         assert decoded_posting_list == postings_list, "hasil decoding tidak sama dengan postings original"
+        assert decoded_tf_list == tf_list, "hasil decoding tidak sama dengan postings original"
         print()

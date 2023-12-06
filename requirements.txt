@@ -5,3 +5,7 @@ PySastrawi
 python-Levenshtein
 django-environ
 google-cloud-secret-manager
+ir_datasets
+lightgbm
+gensim
+scikit-learn
