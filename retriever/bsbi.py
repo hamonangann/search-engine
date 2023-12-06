@@ -9,7 +9,7 @@ from retriever.util import IdMap, merge_and_sort_posts_and_tfs
 from retriever.compression import VBEPostings
 from tqdm import tqdm
 
-from mpstemmer import MPStemmer
+from nltk.stem import PorterStemmer
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 from operator import itemgetter
@@ -68,7 +68,7 @@ class BSBIIndex:
         # https://github.com/ariaghora/mpstemmer/tree/master/mpstemmer
 
         content = content.lower()  # Mengubah teks menjadi lowercase
-        stemmer = MPStemmer()
+        stemmer = PorterStemmer()
         stemmed = stemmer.stem(content)
         remover = StopWordRemoverFactory().create_stop_word_remover()
         final = remover.remove(stemmed)
@@ -112,7 +112,7 @@ class BSBIIndex:
         termIDs dan docIDs. Dua variable ini harus 'persist' untuk semua pemanggilan
         parsing_block(...).
         """
-        stemmer = MPStemmer()
+        stemmer = PorterStemmer()
         remover = StopWordRemoverFactory().create_stop_word_remover()
         stop_factory = StopWordRemoverFactory()
         stop_words_set = set(stop_factory.get_stop_words())

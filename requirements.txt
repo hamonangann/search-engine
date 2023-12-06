@@ -9,3 +9,4 @@ ir_datasets
 lightgbm
 gensim
 scikit-learn
+nltk

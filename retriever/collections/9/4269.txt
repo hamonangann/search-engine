@@ -1,0 +1,1 @@
+Changing borders won’t erase the wrong – it happened and that should be recognised. Borders are simply one by-product and if there are individual borders that are particularly problematic then they might need to be redrawn but there should not be a comprehensive change. To do so might simply create a new wrong with thousands of conflicts over where borders should run.

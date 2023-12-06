@@ -6,14 +6,14 @@ import lightgbm
 from gensim.models import LsiModel
 from gensim.corpora import Dictionary
 from scipy.spatial.distance import cosine
-from mpstemmer import MPStemmer
+from nltk.stem import PorterStemmer
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 class Letor:
     def __init__(self, num_negatives=1, num_latent_topics=200):
         self.num_negatives = num_negatives
         self.num_latent_topics = num_latent_topics
-        self.stemmer = MPStemmer()
+        self.stemmer = PorterStemmer()
         self.stop_words_set = set(StopWordRemoverFactory().get_stop_words())
 
         self.documents, self.queries, self.q_docs_rel = {}, {}, {}
@@ -110,16 +110,13 @@ class Letor:
     
     def train(self):
         X, Y = self.split_data(self.dataset)
-        dataset_val, group_qid_count_val = self.generate_validation_set()
-        X_val, Y_val = self.split_data(dataset_val)
 
         self.ranker = lightgbm.LGBMRanker(
             objective="lambdarank", boosting_type="gbdt", n_estimators=150,
             importance_type="gain", metric="ndcg", num_leaves=70, learning_rate=0.04,
             max_depth=7, random_state=2023
         )
-        self.ranker.fit(X, Y, group=self.group_qid_count, eval_set=[(X_val, Y_val)],
-                        eval_group=[group_qid_count_val])
+        self.ranker.fit(X, Y, group=self.group_qid_count)
 
     def rerank(self, query, docs):
         X_unseen = [self._feature_extraction(query.split(), doc.split()) for _, doc in docs]
